@@ -1,11 +1,6 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = false
-	logallrefupdates = true
-[remote "origin"]
-	url = git@github-deepmtch:deepmtch/formix.git
-	fetch = +refs/heads/*:refs/remotes/origin/*
-[branch "main"]
-	remote = origin
-	merge = refs/heads/main
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
