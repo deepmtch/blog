@@ -1,29 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://deepmtch.github.io/formix/feed.xml" rel="self" type="application/atom+xml" /><link href="https://deepmtch.github.io/formix/" rel="alternate" type="text/html" /><updated>2024-06-07T19:58:41+00:00</updated><id>https://deepmtch.github.io/formix/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">how to gpt!</title><link href="https://deepmtch.github.io/formix/jekyll/update/2024/06/07/howto-html-post.html" rel="alternate" type="text/html" title="how to gpt!" /><published>2024-06-07T19:30:28+00:00</published><updated>2024-06-07T19:30:28+00:00</updated><id>https://deepmtch.github.io/formix/jekyll/update/2024/06/07/howto-html-post</id><content type="html" xml:base="https://deepmtch.github.io/formix/jekyll/update/2024/06/07/howto-html-post.html"><![CDATA[<!DOCTYPE html>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/formix/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/formix/" rel="alternate" type="text/html" /><updated>2024-06-08T18:41:58+00:00</updated><id>http://localhost:4000/formix/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/formix/jekyll/update/2024/06/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-06-07T19:30:28+00:00</published><updated>2024-06-07T19:30:28+00:00</updated><id>http://localhost:4000/formix/jekyll/update/2024/06/07/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/formix/jekyll/update/2024/06/07/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Howto Html Post</title><link href="http://localhost:4000/formix/2024/06/07/howto-html-post.html" rel="alternate" type="text/html" title="Howto Html Post" /><published>2024-06-07T00:00:00+00:00</published><updated>2024-06-07T00:00:00+00:00</updated><id>http://localhost:4000/formix/2024/06/07/howto-html-post</id><content type="html" xml:base="http://localhost:4000/formix/2024/06/07/howto-html-post.html"><![CDATA[<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta charset="UTF-8">
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-  <title>OpenAI Opens GPT-3 for Everyone | By Alberto Romero</title>
-  <meta name="generator" content="Jekyll v3.9.5" />
-  <meta property="og:title" content="OpenAI Opens GPT-3 for Everyone" />
+  <title>Generated Blog Title | By Your Name</title>
+  <meta name="description" content="Blog description goes here." />
+  <meta property="og:title" content="Generated Blog Title" />
   <meta property="og:locale" content="en_US" />
-  <meta name="description" content="How to get in and what to expect." />
-  <meta property="og:description" content="How to get in and what to expect." />
-  <link rel="canonical" href="https://your-website.com" />
-  <meta property="og:url" content="https://your-website.com" />
-  <meta property="og:site_name" content="OpenAI Blog" />
+  <meta property="og:description" content="Blog description goes here." />
+  <link rel="canonical" href="https://yourwebsite.com" />
+  <meta property="og:url" content="https://yourwebsite.com" />
+  <meta property="og:site_name" content="Your Site Name" />
   <meta property="og:type" content="article" />
   <meta name="twitter:card" content="summary" />
-  <meta property="twitter:title" content="OpenAI Opens GPT-3 for Everyone" />
-  <meta name="twitter:site" content="@your_twitter_handle" />
+  <meta property="twitter:title" content="Generated Blog Title" />
+  <meta name="twitter:site" content="@yourtwitterhandle" />
   <script type="application/ld+json">
     {
-      "@context":"https://schema.org",
-      "@type":"Article",
-      "description":"How to get in and what to expect.",
-      "headline":"OpenAI Opens GPT-3 for Everyone",
-      "name":"OpenAI Opens GPT-3 for Everyone",
-      "url":"https://your-website.com"
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "description": "Blog description goes here.",
+      "headline": "Generated Blog Title",
+      "name": "Generated Blog Title",
+      "url": "https://yourwebsite.com"
     }
   </script>
   <style>
@@ -130,72 +145,37 @@
 </head>
 <body>
   <div class="meta">
-    <span class="author">Alberto Romero</span>
-    <span class="date">Nov 19, 2021</span>
+    <span class="author">Your Name</span>
+    <span class="date">June 8, 2024</span>
     <span class="read-time">5 min read</span>
   </div>
   <div class="content">
-    <h1>OpenAI Opens GPT-3 for Everyone</h1>
-    <div class="author">By Alberto Romero</div>
-    <img src="https://via.placeholder.com/800x400" alt="Placeholder Image">
-    <p>When OpenAI announced GPT-3 in May 2020 we were already awaiting the news...</p>
+    <h1>Generated Blog Title</h1>
+    <div class="author">By Your Name</div>
+    <img src="assets/blogpostx/tmpggafg33h.jpg" alt="Header Image">
+    <p></p>
 
     <section class="steps">
-      <h2>Ready to get started? Follow these steps:</h2>
+      <h2>Follow these steps to achieve your goal:</h2>
+
       
       <div class="step">
         <div class="step-number">1</div>
-        <h3>Create a repository</h3>
-    
-        <p>Head over to <a href="https://github.com">GitHub</a> and <a href="https://github.com/new">create a new public repository</a> named <em>username</em>.github.io, where <em>username</em> is your username (or organization name) on GitHub.</p>
-        <img src="assets/2024-06-07-howto-html-post/tmph_8ap6_5.jpg" alt="A user typing 'openai play' in the search bar on a web browser.">
+        <h3>Now we log into the account by entering the email address and selecting the 'Continue' button.</h3>
+        <p>Now we log into the account by entering the email address and selecting the 'Continue' button.</p>
+        <img src="assets/blogpostx/tmpb74x7rq5.jpg" alt=""Login page with options to sign in using email, Google, Microsoft, or Apple accounts"">
       </div>
-
+      
       <div class="step">
         <div class="step-number">2</div>
-        <h3>Clone the repository</h3>
-        <p>Go to the folder where you want to store your project, and clone the new repository:</p>
-        <img src="assets/2024-06-07-howto-html-post/tmpu9_7vwsc.jpg" alt="A Google search results page for 'openai playground' displaying web links and a 'People also ask' section.">
+        <h3></h3>
+        <p></p>
+        <img src="assets/blogpostx/tmpz00l0ife.jpg" alt="Image">
       </div>
-
-      <div class="step">
-        <div class="step-number">3</div>
-        <h3>Hello World</h3>
-        <p>Enter the project folder and add an index.html file:</p>
-        <img src="assets/2024-06-07-howto-html-post/tmpsz5vfxf_.jpg" alt="Image">
-      </div>
-
-      <div class="step">
-        <div class="step-number">4</div>
-        <h3>Push it</h3>
-        <p>Add, commit, and push your changes:</p>
-      </div>
-
-      <div class="step">
-        <div class="step-number">5</div>
-        <h3>…and you're done!</h3>
-        <p>Fire up a browser and go to <strong>https://username.github.io</strong>.</p>
-        <div class="hero-octicon">
-          <span class="mega-octicon octicon-check"></span>
-        </div>
-      </div>
+      
     </section>
+
+    <p>Congratulations! You have completed the tutorial.</p>
   </div>
 </body>
-</html>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[OpenAI Opens GPT-3 for Everyone | By Alberto Romero Alberto Romero Nov 19, 2021 5 min read OpenAI Opens GPT-3 for Everyone By Alberto Romero When OpenAI announced GPT-3 in May 2020 we were already awaiting the news...]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://deepmtch.github.io/formix/jekyll/update/2024/06/07/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-06-07T19:30:28+00:00</published><updated>2024-06-07T19:30:28+00:00</updated><id>https://deepmtch.github.io/formix/jekyll/update/2024/06/07/welcome-to-jekyll</id><content type="html" xml:base="https://deepmtch.github.io/formix/jekyll/update/2024/06/07/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+</html>]]></content><author><name></name></author><summary type="html"><![CDATA[Generated Blog Title | By Your Name Your Name June 8, 2024 5 min read Generated Blog Title By Your Name]]></summary></entry></feed>
