@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<h1>⚡️ AI Productivity: Tips, Tricks, and Tutorials ⚡️</h1>
+<h1>⚡️ Master Productivity with AI: Tips, Tricks, and Tutorials ⚡️</h1>
 
 <!-- Add this section to list your posts -->
 <div class="posts">
