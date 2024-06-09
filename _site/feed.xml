@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/formix/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/formix/" rel="alternate" type="text/html" /><updated>2024-06-09T13:34:46+00:00</updated><id>http://localhost:4000/formix/feed.xml</id><title type="html">Your Awesome Title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">How to Create an HTML Post</title><link href="http://localhost:4000/formix/2024/06/07/my-first-blog-post.html" rel="alternate" type="text/html" title="How to Create an HTML Post" /><published>2024-06-07T00:00:00+00:00</published><updated>2024-06-07T00:00:00+00:00</updated><id>http://localhost:4000/formix/2024/06/07/my-first-blog-post</id><content type="html" xml:base="http://localhost:4000/formix/2024/06/07/my-first-blog-post.html"><![CDATA[This is an example blog post using the `merlot` theme. The theme provides a clean and simple design for your posts.]]></content><author><name></name></author><summary type="html"><![CDATA[This is an example blog post using the `merlot` theme. The theme provides a clean and simple design for your posts.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/formix/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/formix/" rel="alternate" type="text/html" /><updated>2024-06-09T13:53:07+00:00</updated><id>http://localhost:4000/formix/feed.xml</id><title type="html">Your Awesome Title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Formixtest</title><link href="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest.html" rel="alternate" type="text/html" title="Formixtest" /><published>2024-06-09T13:38:45+00:00</published><updated>2024-06-09T13:38:45+00:00</updated><id>http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest</id><content type="html" xml:base="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest.html"><![CDATA[<div>
+  <div class="meta">
+    <span class="author">Your Name</span>
+    <span class="date">June 8, 2024</span>
+    <span class="read-time">5 min read</span>
+  </div>
+  <div class="content">
+    <h1>Generated Blog Title</h1>
+    <div class="author">By <span class="author-name">Your Name</span></div>
+    <img src="/formix/assets/formixtest/tmpoq_gnepd.jpg" alt="Header Image" role="img" aria-label="Header Image">
+    
+    <section class="steps">
+      <div class="step">
+        <div class="step-number">1</div>
+        <p>Now we add a new model by clicking on the 'Settings' button located at the top right of the screen.</p>
+        <img src="/formix/assets/formixtest/tmpvd_io88b.jpg" alt="Viewing the billing overview page on a web platform">
+      </div>
+      
+      <div class="step">
+        <div class="step-number">2</div>
+        <p>Now we add a new payment method by clicking on the 'Add payment method' button under the Billing section.</p>
+        <img src="/formix/assets/formixtest/tmpzals6idx.jpg" alt="User hovering over the settings button in an AI model playground interface">
+      </div>
+      
+      <div class="step">
+        <div class="step-number">3</div>
+        <img src="/formix/assets/formixtest/tmpooibpp6h.jpg" alt="Image">
+      </div>
+    </section>
+
+    <p>Congratulations! You have completed the tutorial.</p>
+  </div>
+</div>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[This is a custom excerpt for the Formixtest post.]]></summary></entry></feed>
