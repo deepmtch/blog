@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/formix/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/formix/" rel="alternate" type="text/html" /><updated>2024-06-09T13:59:56+00:00</updated><id>http://localhost:4000/formix/feed.xml</id><title type="html">Your Awesome Title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Formixtest</title><link href="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest.html" rel="alternate" type="text/html" title="Formixtest" /><published>2024-06-09T13:55:36+00:00</published><updated>2024-06-09T13:55:36+00:00</updated><id>http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest</id><content type="html" xml:base="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest.html"><![CDATA[<div>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/formix/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/formix/" rel="alternate" type="text/html" /><updated>2024-06-09T14:04:52+00:00</updated><id>http://localhost:4000/formix/feed.xml</id><title type="html">Your Awesome Title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Formixtest2</title><link href="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest2.html" rel="alternate" type="text/html" title="Formixtest2" /><published>2024-06-09T14:03:29+00:00</published><updated>2024-06-09T14:03:29+00:00</updated><id>http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest2</id><content type="html" xml:base="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest2.html"><![CDATA[<div>
+  <div class="meta">
+    <span class="author">Your Name</span>
+    <span class="date">June 8, 2024</span>
+    <span class="read-time">5 min read</span>
+  </div>
+  <div class="content">
+    <h1><p>Generated Blog Title</p></h1>
+    <div class="author">By <span class="author-name">Your Name</span></div>
+    <img src="/formix/assets/formixtest2/tmpqkdb0nur.jpg" alt="Header Image" role="img" aria-label="Header Image">
+    <p></p>
+
+    <section class="steps">
+      
+      <div class="step">
+        <div class="step-number">1</div>
+        <p><p>now we add a new model by clicking on the 'Settings' button located at the top right of the screen.</p></p>
+        <img src="/formix/assets/formixtest2/tmpvd_io88b.jpg" alt=""Viewing the billing overview page on a web platform"">
+      </div>
+      
+      <div class="step">
+        <div class="step-number">2</div>
+        <p><p>Now we add a new payment method by clicking on the 'Add payment method' button under the Billing section.</p></p>
+        <img src="/formix/assets/formixtest2/tmpzals6idx.jpg" alt=""User hovering over the settings button in an AI model playground interface"">
+      </div>
+      
+      <div class="step">
+        <div class="step-number">3</div>
+        <p></p>
+        <img src="/formix/assets/formixtest2/tmpooibpp6h.jpg" alt="Image">
+      </div>
+      
+    </section>
+
+    <p><p>Congratulations! You have completed the tutorial.</p></p>
+  </div>
+</div>
+
+<style>
+  .steps {
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  .step {
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    position: relative;
+  }
+  .step-number {
+    font-size: 1.8em;
+    color: #fff;
+    background-color: #007bff;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 50%;
+    text-align: center;
+    position: absolute;
+    top: -25px;
+    left: -25px;
+  }
+  </style>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[some test exerpt Formixtest]]></summary></entry><entry><title type="html">Formixtest</title><link href="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest.html" rel="alternate" type="text/html" title="Formixtest" /><published>2024-06-09T13:55:36+00:00</published><updated>2024-06-09T13:55:36+00:00</updated><id>http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest</id><content type="html" xml:base="http://localhost:4000/formix/jekyll/update/2024/06/09/formixtest.html"><![CDATA[<div>
   <div class="meta">
     <span class="author">Your Name</span>
     <span class="date">June 8, 2024</span>
@@ -60,4 +126,4 @@
   top: -25px;
   left: -25px;
 }
-</style>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Your Name June 8, 2024 5 min read Generated Blog Title By Your Name]]></summary></entry></feed>
+</style>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[some test exerpt Formixtest]]></summary></entry></feed>
